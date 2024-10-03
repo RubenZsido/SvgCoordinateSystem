@@ -1,5 +1,6 @@
 # Coordinate System SVG Helper
 This JavaScript module helps create SVG coordinate systems in HTML. It provides a visual reference for SVG elements by drawing axes and ticks.
+![image of the coordinate system](https://i.ibb.co/b3KdFMg/Screenshot-2024-10-03-191948.png)
 
 ## Usage
 Include the Script
