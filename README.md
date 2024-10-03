@@ -51,7 +51,7 @@ const biggerTickInterval = 5;
 const coordinateSystem = createCoordinateSystem(svgElem, rangeX, rangeY, gapBetweenLines, biggerTickInterval);
 ```
 
-## Change Color
+### Change Color
 To change the color of the coordinate system go into coordinateSystem.js and change the color on line 3
 ```js
 const color = 'black';
